@@ -1,1 +1,2 @@
-# villa
+v = int(input())
+print(v)
